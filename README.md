@@ -50,6 +50,8 @@ Fake-Job-Detector/
   - Probability of both classes
 - Simple, clean interface
 
+Link - https://fake-job-detector-cmtrno93xnhx4cdualmq4r.streamlit.app/
+
 ## 🚀 How to Run Locally
 
 1. Clone the repo:
